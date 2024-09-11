@@ -5,4 +5,4 @@ i gotta lock in for this semester. im loving this class though!
 
 check my other site zero999.neocities.org
 
-<a href="Read.txt">This is me.md</a>
+<a href="This is me.md">This is me.md</a>
