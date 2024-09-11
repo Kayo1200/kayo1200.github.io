@@ -1,4 +1,4 @@
-# kayo1200.github.io
+# kayo.net
 
 This is my site! 
 i gotta lock in for this semester. im loving this class though!
